@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo apt-get update && sudo apt-get install bunsen-common bunsen-configs bunsen-conky bunsen-docs bunsen-faenza-icon-theme bunsen-images bunsen-images-extra bunsen-keyring bunsen-meta-all bunsen-meta-java bunsen-meta-lamp bunsen-meta-libreoffice bunsen-meta-packaging bunsen-meta-printer-support bunsen-meta-ssh bunsen-meta-vcs bunsen-os-release bunsen-pepperflash bunsen-pipemenus bunsen-python-apt-template bunsen-themes bunsen-thunar bunsen-utilities bunsen-welcome -y
